@@ -3,6 +3,8 @@
 Halon is my 3D-Printer design. Its an small self containt portable high speed FDM 3D-Printer.
 I designed this priter to be my travel printer for events and as an rabbit prototyping printer.
 
+![3D-Render of the first Prototype](images/031-4-001-04-3_BG_XY_Mechanik.png)
+
 ## Design Targets
 1. The Printer should be usable as an praktical 3D-Printer
 2. The Printer should be Self Containt. No external spool, no external power supply and an compleate printer enclosure.
