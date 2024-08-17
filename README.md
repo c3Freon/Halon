@@ -20,6 +20,8 @@ The extrusion system is currently the speed limiting factor on this mashien. The
 
 The Prototype was first designed to be mostly printed on the university SLS Printer. So some Parts arent optimised for more Accesseble Printing methodes. The hotend heatsink designed to be manufactured from aluminium with an SLM Printer.
 
+![Intermediate build state of the printer Where many aspects are visible and the cabeling horror hasnt begun](images/Wiki/03_Pictures/11_Außenansicht.png)
+
 ## Technical specifications
 - Maximum speed 500mm/s at 100m/s² acceleration
 - Print area 150x150x120mm
