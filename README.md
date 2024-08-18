@@ -14,6 +14,10 @@ I designed this priter to be my travel printer for events and as an rabbit proto
 # Prototype 0
 This Project started in autum 2023 as an studing project. I have developed the prototype over an halve jear and i build the prototype. On the GPN22 i presented the prototype. Because of the interest and feedback on the event, i decided to publish the design of printer so more people can build this design. 
 
+
+https://github.com/user-attachments/assets/4c1e7ec1-202b-4d33-9429-380821325e8d
+
+
 The mechanics of the prototype function as Planned. It reaches an maximum speed of 0.5m/s with an acceleration of 100m/s² reliable without stepp loss. Even at this high acceleration the ringing on the axis is minimal. 
 The print cooling system is sufficient even on maximum print speed. But, the prototype uses two 15mm turbines for the side cooling and an compressor for the head part cooling. Both are extremly loud (operator needs ear protection when opening the enclosure) which violates the first design target.
 The extrusion system is currently the speed limiting factor on this mashien. The prototype uses an Creality K1 Hotend and an dual gear browden extruder. Its currently limited to 30mm³/s. The hotend and the XY motors get cooled by an water cooling loop.
@@ -47,6 +51,10 @@ The printer's motion system works as designed. The printer achieves a positionin
 The cantilevered Z-axis is very rigid due to the rigid guide and wide beam.
 Automatic levelling via load cells under the print bed is reliable and accurate.
 The printer setup with a large print enclosure works.
+
+
+https://github.com/user-attachments/assets/8164ebac-18e3-453c-8e3b-d6f8cc71612e
+
 
 ## What is still bad
 A few problems were discovered with the first prototype. Firstly, water cooling will not be installed in future versions. The improved printhead cooling provided by water cooling does not justify the significantly increased maintenance and space requirements of water cooling. On the one hand, the cooling water has to be refilled every few days if silicone hoses are used. On the other hand, the tightness of the system is a problem. My prototype is currently leaking because the water tank has cracked due to the high pressure chamber temperatures.
