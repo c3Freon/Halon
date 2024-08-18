@@ -14,7 +14,7 @@ I designed this priter to be my travel printer for events and as an rabbit proto
 # Prototype 0
 This Project started in autum 2023 as an studing project. I have developed the prototype over an halve jear and i build the prototype. On the GPN22 i presented the prototype. Because of the interest and feedback on the event, i decided to publish the design of printer so more people can build this design. 
 
-![Video of the Printer on the GPN22](images/VID_20240526_211921.mp4)
+![Video of the Printer on the GPN22](images/SharkPrintig.mp4)
 
 The mechanics of the prototype function as Planned. It reaches an maximum speed of 0.5m/s with an acceleration of 100m/s² reliable without stepp loss. Even at this high acceleration the ringing on the axis is minimal. 
 The print cooling system is sufficient even on maximum print speed. But, the prototype uses two 15mm turbines for the side cooling and an compressor for the head part cooling. Both are extremly loud (operator needs ear protection when opening the enclosure) which violates the first design target.
